@@ -79,8 +79,11 @@ services:
         target: /var/cache/nginx
         volume:
           nocopy: false
+    volumes:
+      - /etc/ssl/:/etc/ssl
     ports:
       - "8090:8090"
+      - "443:443"
 
   # eidaws-stationlite
   stationlite:
