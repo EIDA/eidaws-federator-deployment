@@ -25,7 +25,7 @@
         return false;
       }
       httpRequest.onreadystatechange = printVersion;
-      httpRequest.open('GET', "http://eida-federator.ethz.ch" + basepath + "/version");
+      httpRequest.open('GET', "" + basepath + "/version");
       httpRequest.send();
     }
 
