@@ -36,7 +36,7 @@ urls-localconfig:
   # BGR
   - http://eida.bgr.de/eidaws/routing/1/localconfig
   # NIEP
-  - http://eida-routing.infp.ro/eidaws/routing/1/localconfig
+  - https://eida-sc3.infp.ro/eidaws/routing/1/routing.xml
   # KOERI
   - http://eida.koeri.boun.edu.tr/eidaws/routing/1/localconfig
   # LMU
