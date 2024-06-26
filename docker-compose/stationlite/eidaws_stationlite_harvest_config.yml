@@ -32,7 +32,7 @@ urls-localconfig:
   # INGV
   - http://webservices.ingv.it/eidaws/routing/1/localconfig
   # ETHZ
-  - http://eida.ethz.ch/eidaws/routing/1/localconfig
+  - http://eida.ethz.ch/eidaws/routing/routing.xml
   # BGR
   - http://eida.bgr.de/eidaws/routing/1/localconfig
   # NIEP
