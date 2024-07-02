@@ -46,7 +46,7 @@ urls-localconfig:
   # UIB
   - http://eida.geo.uib.no/eidaws/routing.xml
   # ICGC
-  - http://ws.icgc.cat/eidaws/routing/1/localconfig
+  - https://ws.icgc.cat/eidaws/routing/routing.xml
 #
 # ----
 # List of service resources being harvested.
