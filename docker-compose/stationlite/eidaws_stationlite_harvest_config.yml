@@ -34,7 +34,7 @@ urls-localconfig:
   # ETHZ
   - http://eida.ethz.ch/eidaws/routing/routing.xml
   # BGR
-  - http://eida.bgr.de/eidaws/routing/1/localconfig
+  - https://eida.bgr.de/eidaws/routing/routing.xml
   # NIEP
   - https://eida-sc3.infp.ro/eidaws/routing/1/routing.xml
   # KOERI
@@ -46,7 +46,7 @@ urls-localconfig:
   # UIB
   - http://eida.geo.uib.no/eidaws/routing.xml
   # ICGC
-  - http://ws.icgc.cat/eidaws/routing/1/localconfig
+  - https://ws.icgc.cat/eidaws/routing/routing.xml
 #
 # ----
 # List of service resources being harvested.
