@@ -47,7 +47,7 @@
     {
         "fqdn": "eida.gein.noa.gr",
         "proxy_netloc": "127.0.0.1:44009",
-        "connection_limit": 10
+        "connection_limit": 5
     },
     {
         "fqdn": "eida.geo.uib.no",
