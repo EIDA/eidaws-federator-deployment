@@ -1,7 +1,8 @@
 [
     {
         "fqdn": "www.orfeus-eu.org",
-        "proxy_netloc": "127.0.0.1:44000"
+        "proxy_netloc": "127.0.0.1:44000",
+        "connection_limit": 4
     },
     {
         "fqdn": "geofon.gfz-potsdam.de",
