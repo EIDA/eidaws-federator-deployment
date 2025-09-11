@@ -6,7 +6,7 @@
     {
         "fqdn": "geofon.gfz-potsdam.de",
         "proxy_netloc": "127.0.0.1:44001",
-        "connection_limit": 9
+        "connection_limit": 5
     },
     {
         "fqdn": "ws.resif.fr",
