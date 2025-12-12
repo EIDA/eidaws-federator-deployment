@@ -1,7 +1,8 @@
 [
     {
         "fqdn": "www.orfeus-eu.org",
-        "proxy_netloc": "127.0.0.1:44000"
+        "proxy_netloc": "127.0.0.1:44000",
+        "connection_limit": 4
     },
     {
         "fqdn": "geofon.gfz-potsdam.de",
@@ -10,7 +11,8 @@
     },
     {
         "fqdn": "ws.resif.fr",
-        "proxy_netloc": "127.0.0.1:44002"
+        "proxy_netloc": "127.0.0.1:44002",
+        "connection_limit": 3
     },
     {
         "fqdn": "webservices.ingv.it",
@@ -39,7 +41,8 @@
     },
     {
         "fqdn": "erde.geophysik.uni-muenchen.de",
-        "proxy_netloc": "127.0.0.1:44008"
+        "proxy_netloc": "127.0.0.1:44008",
+        "connection_limit": 4
     },
     {
         "fqdn": "eida.gein.noa.gr",

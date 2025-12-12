@@ -70,7 +70,7 @@ Finally, the containers are built with:
 
 .. code::
 
-  $ docker-compose -f docker-compose.yml build [--build-arg=INSTANCES_XXX=N]
+  $ docker compose -f docker-compose.yml build [--build-arg=INSTANCES_XXX=N]
 
 
 Deployment
@@ -85,7 +85,7 @@ configuration file.
 
 .. code::
 
-  $ docker-compose -f docker-compose.yml up -d
+  $ docker compose -f docker-compose.yml up -d
 
 If you're deploying the services for the very first time you are required to
 create the database schema
