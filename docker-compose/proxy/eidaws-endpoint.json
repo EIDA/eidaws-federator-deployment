@@ -6,7 +6,7 @@
     {
         "fqdn": "geofon.gfz-potsdam.de",
         "proxy_netloc": "127.0.0.1:44001",
-        "connection_limit": 9
+        "connection_limit": 4
     },
     {
         "fqdn": "ws.resif.fr",
@@ -48,7 +48,8 @@
     },
     {
         "fqdn": "eida.geo.uib.no",
-        "proxy_netloc": "127.0.0.1:44010"
+        "proxy_netloc": "127.0.0.1:44010",
+        "connection_limit": 4
     },
     {
         "fqdn": "ws.icgc.cat",
