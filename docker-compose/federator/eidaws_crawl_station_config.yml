@@ -39,8 +39,8 @@ federator-url: http://eidaws-federator:8080
 #   - www.orfeus-eu.org
 #   # GFZ
 #   - geofon.gfz-potsdam.de
-#   # RESIF
-#   - ws.resif.fr
+#   # EPOSFR
+#   - seisdata.epos-france.fr
 #   # INGV
 #   - webservices.ingv.it
 #   # ETHZ
@@ -69,8 +69,8 @@ federator-url: http://eidaws-federator:8080
 #   - www.orfeus-eu.org
 #   # GFZ
 #   - geofon.gfz-potsdam.de
-#   # RESIF
-#   - ws.resif.fr
+#   # EPOSFR
+#   - seisdata.epos-france.fr
 #   # INGV
 #   - webservices.ingv.it
 #   # ETHZ
