@@ -10,7 +10,7 @@
         "connection_limit": 4
     },
     {
-        "fqdn": "https://seisdata.epos-france.fr",
+        "fqdn": "seisdata.epos-france.fr",
         "proxy_netloc": "127.0.0.1:44002",
         "connection_limit": 3
     },
