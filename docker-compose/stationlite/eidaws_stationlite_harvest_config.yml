@@ -28,7 +28,7 @@ urls-localconfig:
   # GFZ
   - http://geofon.gfz-potsdam.de/eidaws/routing/1/localconfig
   # RESIF
-  - http://ws.resif.fr/routing/eida_routing.xml
+  - https://seisdata.epos-france.fr/routing/eida/routing.xml
   # INGV
   - http://webservices.ingv.it/eidaws/routing/1/localconfig
   # ETHZ
