@@ -27,7 +27,7 @@ urls-localconfig:
   - http://www.orfeus-eu.org/eidaws/routing/1/localconfig
   # GFZ
   - http://geofon.gfz-potsdam.de/eidaws/routing/1/localconfig
-  # RESIF
+  # EPOSFR
   - https://seisdata.epos-france.fr/routing/eida/routing.xml
   # INGV
   - http://webservices.ingv.it/eidaws/routing/1/localconfig
